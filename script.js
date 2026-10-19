@@ -1,0 +1,1 @@
+document.querySelector('#football').addEventListener('click','function')
